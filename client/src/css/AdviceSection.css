@@ -1,0 +1,66 @@
+
+.advice-page {
+    font-family: Arial, sans-serif;
+    color: #2f3e46;
+    line-height: 1.6;
+  }
+  
+  .advice-header {
+    background-color: #edf2f4;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .advice-logo {
+    max-width: 150px;
+  }
+  
+  .advice-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .advice-content h1 {
+    text-align: center;
+    color: #1d3557;
+    margin-bottom: 20px;
+  }
+  
+  .advice-content p {
+    text-align: center;
+    font-size: 18px;
+    color: #457b9d;
+  }
+  
+  .advice-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+  }
+  
+  .stat-item {
+    background-color: #f1faee;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .stat-item img {
+    max-width: 50px;
+    margin-bottom: 15px;
+  }
+  
+  .stat-item h2 {
+    font-size: 36px;
+    color: #e63946;
+    margin: 10px 0;
+  }
+  
+  .stat-item p {
+    font-size: 16px;
+    color: #2f3e46;
+  }
+  
